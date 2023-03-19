@@ -1,0 +1,6 @@
+/home/parallels/Documents/code_code/timp/aaaaaaaa/formatter_ex_lib/build/CMakeFiles/formatter_ex_lib.dir
+/home/parallels/Documents/code_code/timp/aaaaaaaa/formatter_ex_lib/build/CMakeFiles/edit_cache.dir
+/home/parallels/Documents/code_code/timp/aaaaaaaa/formatter_ex_lib/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/Documents/code_code/timp/aaaaaaaa/formatter_ex_lib/build/formatter/CMakeFiles/formatter.dir
+/home/parallels/Documents/code_code/timp/aaaaaaaa/formatter_ex_lib/build/formatter/CMakeFiles/edit_cache.dir
+/home/parallels/Documents/code_code/timp/aaaaaaaa/formatter_ex_lib/build/formatter/CMakeFiles/rebuild_cache.dir
